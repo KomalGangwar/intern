@@ -1,0 +1,28 @@
+/* NextPage.css */
+
+.next-page-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .next-page-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .data-container {
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
+  .loading,
+  .error {
+    font-size: 18px;
+    color: #ff0000;
+  }
+  
